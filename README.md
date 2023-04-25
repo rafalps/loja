@@ -3,9 +3,9 @@
 
 ## Getting start
 
-Comandos:
+Comandos para iniciar o projeto:
 
-**php install.php**
+$ **php install.php**
 
-**php -S localhost:8001**
+$ **php -S localhost:8001**
 
