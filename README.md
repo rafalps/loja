@@ -9,3 +9,7 @@ $ **php install.php**
 
 $ **php -S localhost:8001**
 
+Configurações:
+
+**config/Database.php -> alterar credenciais do banco de dados**
+
