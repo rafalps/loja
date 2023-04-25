@@ -1,15 +1,15 @@
-#LOJA
+# LOJA
 ### Este projeto simula um sistema utilizado em uma loja.
 
-##Getting start
+## Getting start
 
-###Comandos para iniciar o projeto:
+### Comandos para iniciar o projeto:
 
 $ **php install.php**
 
 $ **php -S localhost:8001**
 
-###Configurações:
+### Configurações:
 
 **config/Database.php -> alterar credenciais do banco de dados**
 
