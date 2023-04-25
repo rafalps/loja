@@ -4,4 +4,7 @@
 ## Getting start
 
 Comandos:
+
 **php install.php**
+**php -S localhost:8001**
+
