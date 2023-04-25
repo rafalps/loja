@@ -3,13 +3,21 @@
 
 ## Getting start
 
+
 ### Comandos para iniciar o projeto:
 
 $ **php install.php**
 
-$ **php -S localhost:8001**
+$ **php -S localhost:8080**
+
 
 ### Configurações:
 
 **config/Database.php -> alterar credenciais do banco de dados**
 
+
+## Detalhes sobre o projeto:
+
+**Bootstrap**
+**PHP 7.4 >**
+**Conceitos de Clean Code e MVC**
