@@ -18,9 +18,9 @@ $ **php -S localhost:8080**
 
 ## Detalhes sobre o projeto:
 
-**Bootstrap**
+**- Bootstrap**
 
-**PHP 7.4 >**
+**- PHP 7.4 >**
 
-**Conceitos de Clean Code e MVC**
+**- Conceitos de Clean Code e MVC**
 
